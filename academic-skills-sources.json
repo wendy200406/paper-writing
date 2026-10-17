@@ -1,0 +1,31 @@
+{
+  "sources": [
+    {
+      "repository": "https://github.com/Aaronlves/paper-analysis-skill",
+      "commit": "df1deb3fc7841866fede40b3f661c77de9b7b5c3"
+    },
+    {
+      "repository": "https://github.com/Imbad0202/academic-research-skills-codex",
+      "commit": "71528d9349bcdacfbe94111f06d9e2d82215a44d"
+    },
+    {
+      "repository": "https://github.com/anon-research-tools/academic-literature-route",
+      "commit": "a1fa599da14271dfa2a5b6b3821867f08c723fb2"
+    },
+    {
+      "repository": "https://github.com/xingtaxueshu/literature-review-skills",
+      "commit": "84de3ba1f3853334d565fbbe6ac4f321cba6bd6b"
+    }
+  ],
+  "skills": [
+    "academic-literature-route",
+    "academic-research-suite",
+    "compare-research-methods",
+    "decompose-review-modules",
+    "literature-review-skills",
+    "locate-review-research-gap",
+    "map-literature-contradictions",
+    "paper-analysis",
+    "refine-literature-question"
+  ]
+}
