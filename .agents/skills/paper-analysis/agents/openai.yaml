@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Analysis"
+  short_description: "Analyze philosophical sources with rigor"
+  default_prompt: "Use $paper-analysis to reconstruct this philosophical source’s concepts, arguments, interpretations, and dialectical role."
